@@ -1,0 +1,16 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"enemies","order":2,"path":"folders/Sprites/enemies.yy",},
+    {"name":"player","order":3,"path":"folders/Sprites/player.yy",},
+    {"name":"enemies","order":1,"path":"folders/Objects/enemies.yy",},
+    {"name":"itens","order":2,"path":"folders/Objects/itens.yy",},
+    {"name":"player","order":3,"path":"folders/Objects/player.yy",},
+    {"name":"backgrounds","order":4,"path":"folders/Sprites/backgrounds.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+  ],
+}

@@ -1,0 +1,50 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "Lynks Castle",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"itens","folderPath":"folders/Sprites/itens.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"enemies","folderPath":"folders/Sprites/enemies.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"player","folderPath":"folders/Sprites/player.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"enemies","folderPath":"folders/Objects/enemies.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"itens","folderPath":"folders/Objects/itens.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"player","folderPath":"folders/Objects/player.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"backgrounds","folderPath":"folders/Sprites/backgrounds.yy",},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.8.1.102",
+  },
+  "resources": [
+    {"id":{"name":"sp_room_1","path":"sprites/sp_room_1/sp_room_1.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"sp_dagger","path":"sprites/sp_dagger/sp_dagger.yy",},},
+    {"id":{"name":"sp_yellow_bite","path":"sprites/sp_yellow_bite/sp_yellow_bite.yy",},},
+    {"id":{"name":"sp_player","path":"sprites/sp_player/sp_player.yy",},},
+    {"id":{"name":"obj_yellow_bite","path":"objects/obj_yellow_bite/obj_yellow_bite.yy",},},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_dagger","path":"objects/obj_dagger/obj_dagger.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+  ],
+  "templateType": "game",
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}
